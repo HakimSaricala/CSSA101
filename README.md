@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website Template<br/>
+  A personal Porfolio created with Boilerplate<br/>
 </h2>
   <p>Trying to create a customizable, responsive portfolio template designed for individuals to showcase their work professionally. It offers an elegant, user-friendly interface that can be easily personalized, with sections for introduction, skills, about me, projects, experience and contact information. Ideal for developers, designers, and creatives.</p>
 
